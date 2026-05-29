@@ -119,10 +119,10 @@ After training, you'll see a comparison like:
 
 # 👤 Author
 
-## Shristi Upadhyay
+## Nikki Chaudhary
 CodeAlpha Machine Learning Intern
 
 ### 🔗 Connect With Me
 
-- GitHub: https://github.com/shrxstii
-- LinkedIn: https://www.linkedin.com/in/shristiupadhyay11/
+- GitHub: https://github.com/Nikki31Chaudhary
+- LinkedIn: https://www.linkedin.com/in/nikki-chaudhary-57b976332
